@@ -85,8 +85,6 @@ Submitting File
 
 ## Contributors
 
-1. Choudary Srinivas Srikar – 230101032  
-2. Doma Gowtham Reddy       – 230101038  
-3. Manideep Ram Gunje       – 230101044  
-4. Sankiti Aishwarya        – 230102086  
+1. Kummari Venu – 240101048  
+2. Chetan Srirama - 240101032  
 
